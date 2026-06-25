@@ -1,2 +1,2 @@
 # Leidy Julieth Londoño
-## Primera sección Programación orientada Objetos 
+## Primera sesión Programación orientada Objetos 
